@@ -13,6 +13,6 @@ Terraform instalado
 cd cloud-serverless-checkpoint1
 
 3. Use o terraform
-terraform init
-terraform plan
-terraform apply
+terraform init\
+terraform plan\
+terraform apply\
