@@ -1,4 +1,4 @@
-# Checkpoint 1 - Funcao Serverless na Nuvem
+# Checkpoint 1 - Função Serverless na Nuvem
 
 **Descrição do produto: Calculadora
 
