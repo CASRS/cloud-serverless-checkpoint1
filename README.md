@@ -22,22 +22,8 @@ terraform apply
 Operações da Calculadora
 
 Soma
-http://34.202.46.163:8080/?a=10&b=5&op=soma
-
 Subtração
-http://34.202.46.163:8080/?a=17&b=5&op=subtracao
-
 Multiplicação
-http://34.202.46.163:8080/?a=20&b=5&op=multiplicacao
-
 Divisão
-http://34.202.46.163:8080/?a=12&b=4&op=divisao
 
 
-Método de uso do prompt:
-
-Uso no navegador:
-http://34.202.46.163:8080/?a=10&b=5&op=soma
-
-Uso prompt:
-curl "http://34.202.46.163:8080/?a=10&b=5&op=soma"
