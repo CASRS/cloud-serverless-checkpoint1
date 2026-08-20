@@ -12,7 +12,7 @@ Terraform instalado
 2. Entre na pasta do projeto:
 cd cloud-serverless-checkpoint1
 
-3. Use o terraform
+3. Use o terraform\
 terraform init\
 terraform plan\
 terraform apply\
