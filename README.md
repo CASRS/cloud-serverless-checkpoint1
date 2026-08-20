@@ -16,3 +16,27 @@ cd cloud-serverless-checkpoint1
 terraform init\
 terraform plan\
 terraform apply
+4. Uso e funções do serviço
+
+Operações da Calculadora
+
+Soma
+http://xxxxxx:8080/?a=10&b=5&op=soma
+
+Subtração
+http://xxxxxx:8080/?a=17&b=5&op=subtracao
+
+Multiplicação
+http://xxxxxx:8080/?a=20&b=5&op=multiplicacao
+
+Divisão
+http://xxxxxx:8080/?a=12&b=4&op=divisao
+
+
+Método de uso do prompt:
+
+Uso no navegador:
+http://xxxxxx:8080/?a=10&b=5&op=soma
+
+Uso prompt:
+curl "http://xxxxxx:8080/?a=10&b=5&op=soma"
